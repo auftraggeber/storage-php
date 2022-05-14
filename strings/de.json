@@ -1,0 +1,13 @@
+{
+    "index_title": "Willkommen",
+    "nav_bar_title": "Dateispeicher",
+    "nav_bar_toggle_nav_area_label": "Navigationselemente umschalten",
+    "nav_bar_item_files_title": "Dateien",
+    "login": "Einloggen",
+    "logout": "Ausloggen",
+    "index_welcome_text": "<p>Willkommen auf dem Dateispeicher-Portal. Hier können Sie einfach und schnell Dateien hochladen und teilen.<br/>Sie benötigen keinen Account um Dateien hoch- oder herunterzuladen.</p><p>Allerdings profitieren angemeldete Mitglieder von einigen <a href=\"%_1%\">exklusiven Funktionen</a>.</p>",
+    "index_services_title": "Speicherplätze",
+    "service_without_login_card_title": "Ohne Anmeldung",
+    "service_without_login_card_text": "Sie können diese Website auch ohne Anmeldung sowohl für den Up- als auch Download verwenden. Jedoch gibt es dabei ein paar strengere Einschränkungen.",
+    "service_without_login_card_item_storage_per_file_title": "Max. Dateigröße"
+}
